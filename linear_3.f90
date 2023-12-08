@@ -81,7 +81,7 @@ program linear_3
       + b
 
   ! Display the prediction result
-  write(*,'(a,F0.10)') 'Predicted value = ', y_pred
+  write(*,'(a,F0.33)') 'Predicted value = ', y_pred
 
   ! Deallocate memory
   deallocate(sequence)
