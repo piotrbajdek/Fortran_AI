@@ -45,7 +45,7 @@ program sompr_5
       ! Initialize gradients
       dw = 0.0_qp
 
-      ! Compute for each element of the sequence excluding the first three
+      ! Compute for each element of the sequence excluding the first five
       do j=6, seq_len
           y_pred = w(1) * sequence(j-2) &
           + w(2) * sequence(j-3) &
