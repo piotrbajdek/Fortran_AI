@@ -10,6 +10,7 @@ It is available under the ![BSD 3-Clause No Military License](https://github.com
 | [knn_8_manhattan.f90](https://github.com/piotrbajdek/Fortran_AI/blob/main/knn_8_manhattan.f90) | _k_-nearest neighbours regression algorithm employing the Manhattan distance |
 | [knn_evolutionary.f90](https://github.com/piotrbajdek/Fortran_AI/blob/main/knn_evolutionary.f90) | Evolutionary algorithm finding the optimal _k_ value for the _k_-nearest neighbours method |
 | [recurrent_network.f90](https://github.com/piotrbajdek/Fortran_AI/blob/main/recurrent_network.f90) | Recurrent neural network employing the Adam gradient descent optimisation algorithm |
+| [rnn_att_3.f90](https://github.com/piotrbajdek/Fortran_AI/blob/main/rnn_att_3.f90) | Recurrent neural network employing the Adam gradient descent optimisation algorithm and element-wise dot-product attention |
 | [linear_3.f90](https://github.com/piotrbajdek/Fortran_AI/blob/main/linear_3.f90) | 3-neuron linear network employing the Adam gradient descent optimisation algorithm |
 | [linear_3_nadam.f90](https://github.com/piotrbajdek/Fortran_AI/blob/main/linear_3_nadam.f90) | 3-neuron linear network employing the Nadam gradient descent optimisation algorithm |
 | [linear_8_att.f90](https://github.com/piotrbajdek/Fortran_AI/blob/main/linear_8_att.f90) | 8-neuron linear network employing the Adam gradient descent optimisation algorithm and element-wise dot-product attention |
