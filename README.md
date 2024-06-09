@@ -13,6 +13,7 @@ It is available under the ![BSD 3-Clause No Military License](https://github.com
 | [rnn_att_3.f90](https://github.com/piotrbajdek/Fortran_AI/blob/main/rnn_att_3.f90) | Recurrent neural network employing the Adam gradient descent optimisation algorithm and element-wise dot-product attention |
 | [rnn_mh_att_3.f90](https://github.com/piotrbajdek/Fortran_AI/blob/main/rnn_mh_att_3.f90) | Recurrent neural network employing the Adam gradient descent optimisation algorithm and multi-head dot-product attention |
 | [rnn_add_att_3.f90](https://github.com/piotrbajdek/Fortran_AI/blob/main/rnn_add_att_3.f90) | Recurrent neural network employing the Adam gradient descent optimisation algorithm and element-wise additive attention |
+| [rnn_mh_sc_att_3.f90](https://github.com/piotrbajdek/Fortran_AI/blob/main/rnn_mh_sc_att_3.f90) | Recurrent neural network employing the Adam gradient descent optimisation algorithm and scaled multi-head dot-product attention |
 | [linear_3.f90](https://github.com/piotrbajdek/Fortran_AI/blob/main/linear_3.f90) | 3-neuron linear network employing the Adam gradient descent optimisation algorithm |
 | [linear_3_nadam.f90](https://github.com/piotrbajdek/Fortran_AI/blob/main/linear_3_nadam.f90) | 3-neuron linear network employing the Nadam gradient descent optimisation algorithm |
 | [linear_8_att.f90](https://github.com/piotrbajdek/Fortran_AI/blob/main/linear_8_att.f90) | 8-neuron linear network employing the Adam gradient descent optimisation algorithm and element-wise dot-product attention |
